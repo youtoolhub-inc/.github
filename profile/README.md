@@ -22,11 +22,7 @@ Sinta-se à vontade para contribuir para o projeto. Faça um fork deste reposit�
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
-## Contato
-
-Para mais informações, entre em contato conosco através do e-mail: bressynickolas2007@gmail.com.
+Este projeto está licenciado sob a [Licença](LICENSE).
 
 ---
 
